@@ -1,6 +1,6 @@
 # Weather-Dashboard# 
 
-Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. This challenge was to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
+Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. This challenge was to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS. The link to the live applicaton can be found [here](https://dbreznay.github.io/06Weather-Dashboard/)
 
 This app utilizes [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for cities.
 
@@ -37,5 +37,5 @@ THEN I am presented with the last searched city forecast
 
 The following image demonstrates the application functionality:
 
-![weather dashboard demo](./Assets/06-server-side-apis-homework-demo.png)
+![weather dashboard demo](06Weather-Dashboard/Images/weatherApp.png)
 
