@@ -37,5 +37,4 @@ THEN I am presented with the last searched city forecast
 
 The following image demonstrates the application functionality:
 
-![weather dashboard demo](./06Weather-Dashboard/Images/weatherApp.png)
-
+![weatherApp](https://user-images.githubusercontent.com/60904436/84614179-f48fb500-ae8a-11ea-93bd-013ad56627a3.png)
